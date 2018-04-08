@@ -10,4 +10,8 @@ public class shiftedtech {
     public void test01(){
         System.out.println("second test for git ");
     }
+
+    public void test02(){
+        System.out.println("third test for git");
+    }
 }

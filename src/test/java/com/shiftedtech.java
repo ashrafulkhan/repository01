@@ -14,4 +14,7 @@ public class shiftedtech {
     public void test02(){
         System.out.println("third test for git");
     }
+    public void test03(){
+        System.out.println("third test for git");
+    }
 }
